@@ -14,8 +14,8 @@ Running this notebook:
         * Open the command line
         * Change directory to where the notebook exists
         * Run the following : 
-        * pip install -r requirements.txt
-        * jupyter notebook
+            * pip install -r requirements.txt
+            * jupyter notebook
     * Virtual environment : 
         * Open the command line
         * Change directory to where the notebook exists
