@@ -1,5 +1,7 @@
-# lyrics_topic_models
-Topic Modeling of Music Lyrics
+# rap_lyric_topic_model
+Topic Modeling of Rap Lyrics (Exploring East Coast / West Coast, Male / Female)
+
+This work was created as part of the first annual Advanced Analytics competition at [VA SLC IDEAS Center](https://twitter.com/SLC_IDEAS)  While we normally work with healthcare data, for this project we decided to do something a little bit different.
 
 This notebook uses topic modeling on rap lyrics to that we can investigate differences between East Coast and West Coast rap and its legendary rivalry.  Additionally, we will ask whether any differences in gender between Male and Female rappers who were a part of this rivalry.  The objective here is not the rivalry or the regrettable violence and unfortunate lives lost but rather what we can learn about differences in styles, themes and word choice
 
